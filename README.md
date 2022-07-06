@@ -6,8 +6,8 @@ Healthcare Management background with project and people management skills.
 
 <p>👀 I’m interested in creating new and innovative ways to make old processes easier for everyone. <br/>
   
-- 🌱 I’m currently learning Vue.js <br/>
-- 💡 Looking forward to learning Django next <br/>
+- 🌱 I’m currently learning Node.js <br/>
+
 
 </p>
 <br/>
