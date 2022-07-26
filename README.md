@@ -6,7 +6,7 @@ Healthcare Management background with project and people management skills.
 
 <p>👀 I’m interested in creating new and innovative ways to make old processes easier for everyone. <br/>
   
-- 🌱 I’m currently learning Node.js <br/>
+- 🌱 I’m currently learning Node.js and Swift <br/>
 
 
 </p>
@@ -18,7 +18,7 @@ Healthcare Management background with project and people management skills.
   <img height="40" src="https://iconape.com/wp-content/png_logo_vector/javascript-logo.png">
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png">
-   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png">
+
 
   </p>
   
