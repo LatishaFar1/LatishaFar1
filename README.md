@@ -7,6 +7,7 @@ Healthcare Management background with project and people management skills.
 <p>👀 I’m interested in creating new and innovative ways to make old processes easier for everyone. <br/>
   
 - 🌱 I’m currently learning Node.js and Swift <br/>
+- 👩🏽‍💻 I'm currently working on my first Swift App <a href="https://github.com/LatishaFar1/Musique"> Musique </a>
 
 
 </p>
