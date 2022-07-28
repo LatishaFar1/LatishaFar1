@@ -39,6 +39,10 @@ Healthcare Management background with project and people management skills.
          <img alt="medium" height="40" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png">
       </a>
       
+      
+         <a href="https://www.instagram.com/tish.codes/">
+         <img alt="instagram" height="40" src="https://i.pinimg.com/564x/72/9f/77/729f7798561be2cb67f39e916a22eb6a.jpg">
+      </a>
   
   
 
