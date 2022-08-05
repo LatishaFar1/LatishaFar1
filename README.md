@@ -8,7 +8,7 @@ Full Stack Software Engineer and Tech Writer
   
 - 🌱 I’m currently learning Node.js and Swift <br/>
 - 👩🏽‍💻 I'm currently working on my first Swift App <a href="https://github.com/LatishaFar1/Musique"> Musique </a>
-- 🏽‍💻 I'm also currently working on my first Node.js App <a href="https://github.com/LatishaFar1/HunterCentral"> Hunter Central </a>
+- 💻 I'm also currently working on my first Node.js App <a href="https://github.com/LatishaFar1/HunterCentral"> Hunter Central </a>
 
 
 
