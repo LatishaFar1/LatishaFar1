@@ -7,8 +7,8 @@ Full Stack Software Engineer and Tech Writer
 <p>👀 I’m interested in creating new and innovative ways to make old processes easier for everyone. <br/>
   
 - 🌱 I’m currently learning Node.js and Swift <br/>
-- 👩🏽‍💻 I'm currently working on my first Swift App <a href="https://github.com/LatishaFar1/Musique"> Musique </a>
-- 💻 I'm also currently working on my first Node.js App
+- 👩🏽‍💻 I'm currently working on my first Swift App <a href="https://github.com/LatishaFar1/Musique"> Musique </a> & a React/Node.js App <a href="https://github.com/LatishaFar1/SweetT/tree/main/sweett"> SweetT </a>
+- 💻 I've recently completed:
 <a href="https://github.com/LatishaFar1/node-blog"> Node Blog </a>
 
 
