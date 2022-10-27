@@ -18,6 +18,8 @@ Full Stack Software Engineer and Tech Writer
 </p>
 <br/>
 
+[![@latishafar1's Holopin board](https://holopin.me/latishafar1)](https://holopin.io/@latishafar1)
+
 <h2> Skills </h2>
 <p>
 
