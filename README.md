@@ -8,7 +8,7 @@ Full Stack Software Engineer and Tech Writer
   
 - 🌱 I’m currently learning Node.js and Swift <br/>
 - 👩🏽‍💻 I'm currently working on my first Swift App <a href="https://github.com/LatishaFar1/Musique"> Musique </a>, 
-<a href="https://github.com/LatishaFar1/horoscope"> Horoscope</a>, & a React/Node.js App <a href="https://github.com/LatishaFar1/SweetT"> SweetT </a>
+<a href="https://github.com/LatishaFar1/horoscope"> Horoscope</a>, a React/Node.js App <a href="https://github.com/LatishaFar1/SweetT"> SweetT </a>, and a MERN app called <a href="https://github.com/LatishaFar1/tish-hotels"> Tish Hotels </a>
 - 💻 I've recently completed:
 <a href="https://github.com/LatishaFar1/node-blog"> Node Blog </a>
 
