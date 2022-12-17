@@ -26,7 +26,7 @@ Full Stack Software Engineer and Tech Writer
   <img height="40" src="https://iconape.com/wp-content/png_logo_vector/javascript-logo.png">
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png">
-
+    <img height="40" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png">
 
   </p>
   
@@ -41,6 +41,11 @@ Full Stack Software Engineer and Tech Writer
          <img alt="linkedin" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
       </a>
 
+   <a href="https://www.youtube.com/@tishcodes">
+         <img alt="youtube" height="40" src="https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png">
+      </a>
+      
+
 
    <a href="https://tishfaroul.medium.com">
          <img alt="medium" height="40" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png">
@@ -49,6 +54,7 @@ Full Stack Software Engineer and Tech Writer
    <a href= "https://www.instagram.com/tish.codes/">
       <img alt="instagram" height="40" src="https://camo.githubusercontent.com/366697de3f6ada9ce804834e6e091c64a1d5d6d267b1b88206b086b67085369d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36652f496e7374616772616d5f666f6e745f617765736f6d652e7376672f3230303070782d496e7374616772616d5f666f6e745f617765736f6d652e7376672e706e67">
   <a/>
+  
 
   
   
